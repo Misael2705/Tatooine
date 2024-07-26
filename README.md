@@ -42,4 +42,4 @@ Commited: indica que el archivo ya se respaldo
 crear muchas ramas
 
 ¿A qué año debía volver Marty McFly para reestablecer la línea de tiempo?
-debe volver al 12 de noviembre de 1955.
+debe volver al 12 de noviembre de 1955. 
